@@ -19,7 +19,9 @@ Copy the file custompress.pl there.
 
 Or if you prefer you can download the file from here.
 
-wget https://codifica.me/dev/custompress.pl
+wget https://codifica.me/dev/custompress.pl.zip
+
+Unzip there this file.
 
 Then, on Virtualmin, click "Install Scripts" and you will found “Custom WordPress” as an install option.
 
